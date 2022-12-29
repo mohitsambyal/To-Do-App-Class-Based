@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+/* MS */
+
+button {
+  margin-left: 10px;
+}
+.nobull {
+  list-style-type: none;
+}
+
+li {
+  padding: 10px;
+}
